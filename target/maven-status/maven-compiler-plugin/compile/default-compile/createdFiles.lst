@@ -1,0 +1,6 @@
+main\java\com\provider\controller\AnalyticsController.class
+main\java\com\provider\controller\ParamsController.class
+main\java\com\provider\controller\AnalyticsListController.class
+main\java\com\provider\controller\DeployController.class
+main\java\com\provider\controller\ConfigController.class
+com\provider\EnergyActivityProviderApplication.class
