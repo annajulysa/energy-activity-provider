@@ -1,5 +1,5 @@
 # Use uma imagem leve do Java
-FROM openjdk:21-jdk-alpine
+FROM eclipse-temurin:21-jdk
 
 # Diretório de trabalho dentro do container
 WORKDIR /app
